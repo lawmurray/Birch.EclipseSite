@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/Birch.EclipseFeature_1.0.0.201803101734.jar" id="Birch.EclipseFeature" version="1.0.0.201803101734"/>
+   <feature url="features/Birch.EclipseFeature_1.0.0.201803111244.jar" id="Birch.EclipseFeature" version="1.0.0.201803111244">
+      <category name="editors"/>
+   </feature>
+   <category-def name="editors" label="Editors"/>
 </site>
