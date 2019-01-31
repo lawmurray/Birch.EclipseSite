@@ -3,7 +3,7 @@
    <description name="Birch" url="http://www.birch-lang.org/eclipse/updates">
       Eclipse plugins for Birch.
    </description>
-   <feature url="features/Birch.EclipseFeature_1.0.2.201809032234.jar" id="Birch.EclipseFeature" version="1.0.2.201809032234">
+   <feature url="features/Birch.EclipseFeature_1.0.3.201901311101.jar" id="Birch.EclipseFeature" version="1.0.3.201901311101">
       <category name="editors"/>
    </feature>
    <category-def name="editors" label="Editors"/>
